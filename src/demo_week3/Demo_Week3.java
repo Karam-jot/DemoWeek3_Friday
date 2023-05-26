@@ -6,7 +6,7 @@ package demo_week3;
 
 /**
  *This is for deMONSTRATION FOR WEEK3 
- * @author karam
+ * @author nav
  */
 public class Demo_Week3 {
 
