@@ -6,7 +6,7 @@ package demo_week3;
 
 /**
  *This is for deMONSTRATION FOR WEEK3 
- * @author nav
+ * @author jot
  */
 public class Demo_Week3 {
 
